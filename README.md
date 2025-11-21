@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 浙江大学软件学院硕士研究生学位论文LaTeX模板
 模板上游：[ZJU-Awesome](https://github.com/ZJU-Awesome/write_with_LaTeX)<br>
 模板改造者：  zsyh等
@@ -136,3 +137,7 @@ windows和Linxu 皆使用 TeXLive 2016 安装
 **MIT** 
 
 欢迎 issue 和 PR
+=======
+# lunwen
+毕业论文
+>>>>>>> 968273f1572e402ee8634c734b84adf30abe0860
